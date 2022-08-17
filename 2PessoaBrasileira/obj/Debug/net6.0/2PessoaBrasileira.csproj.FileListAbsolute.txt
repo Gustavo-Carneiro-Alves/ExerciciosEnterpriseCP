@@ -1,0 +1,15 @@
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.exe
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.deps.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.runtimeconfig.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.csproj.AssemblyReference.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.AssemblyInfoInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.AssemblyInfo.cs
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.csproj.CoreCompileInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\refint\2PessoaBrasileira.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.genruntimeconfig.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\ref\2PessoaBrasileira.dll
