@@ -1,4 +1,4 @@
-﻿Int16 nLinhas = 4; //número de linhas da tabela
+﻿int nLinhas = 4; //número de linhas da tabela
 
 for (int i = 1; i<nLinhas+1; i++){
     for (int j = 1; j<=i; j++){

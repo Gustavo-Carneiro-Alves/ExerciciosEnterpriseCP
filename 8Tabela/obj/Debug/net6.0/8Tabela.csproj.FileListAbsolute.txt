@@ -13,3 +13,18 @@ D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.pdb
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.genruntimeconfig.cache
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\ref\8Tabela.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\bin\Debug\net6.0\8Tabela.exe
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\bin\Debug\net6.0\8Tabela.deps.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\bin\Debug\net6.0\8Tabela.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\bin\Debug\net6.0\8Tabela.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\bin\Debug\net6.0\8Tabela.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\8Tabela.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\8Tabela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\8Tabela.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\8Tabela.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\8Tabela.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\8Tabela.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\refint\8Tabela.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\8Tabela.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\8Tabela.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\8Tabela\obj\Debug\net6.0\ref\8Tabela.dll

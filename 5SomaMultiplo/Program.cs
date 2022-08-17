@@ -1,15 +1,11 @@
-﻿var numeroInicial = 1;
-  var numeroFinal = 100;
-  var soma = 0;
+﻿int soma = 0;
 
-  for (int numeroAtual = numeroInicial; numeroAtual <= numeroFinal; numeroAtual++)
-  {
-    var ehMultiploDeTres = numeroAtual % 3 == 0;
-    if (ehMultiploDeTres)
-      continue;
-
-    soma += numeroAtual;
+for (int n = 1; n <= 100; n++)
+{
+  if(n % 3 == 0){
+    soma += n;
   }
+}
 
-  Console.WriteLine(string.Concat("O resultado é ", soma), "Resultado");
+Console.WriteLine($"A soma de todos os múltiplos de 3 é: {soma}");
 

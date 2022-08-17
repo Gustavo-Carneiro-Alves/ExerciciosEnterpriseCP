@@ -13,3 +13,18 @@ D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\6Fatorial\obj\Debug\net6
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\6Fatorial\obj\Debug\net6.0\6Fatorial.pdb
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\6Fatorial\obj\Debug\net6.0\6Fatorial.genruntimeconfig.cache
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\6Fatorial\obj\Debug\net6.0\ref\6Fatorial.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\bin\Debug\net6.0\6Fatorial.exe
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\bin\Debug\net6.0\6Fatorial.deps.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\bin\Debug\net6.0\6Fatorial.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\bin\Debug\net6.0\6Fatorial.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\bin\Debug\net6.0\6Fatorial.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\6Fatorial.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\6Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\6Fatorial.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\6Fatorial.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\6Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\6Fatorial.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\refint\6Fatorial.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\6Fatorial.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\6Fatorial.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\6Fatorial\obj\Debug\net6.0\ref\6Fatorial.dll

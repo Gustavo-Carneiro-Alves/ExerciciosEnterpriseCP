@@ -13,3 +13,18 @@ D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\r
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.pdb
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.genruntimeconfig.cache
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\ref\4Soma.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\bin\Debug\net6.0\4Soma.exe
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\bin\Debug\net6.0\4Soma.deps.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\bin\Debug\net6.0\4Soma.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\bin\Debug\net6.0\4Soma.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\bin\Debug\net6.0\4Soma.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\4Soma.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\4Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\4Soma.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\4Soma.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\4Soma.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\4Soma.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\refint\4Soma.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\4Soma.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\4Soma.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\4Soma\obj\Debug\net6.0\ref\4Soma.dll

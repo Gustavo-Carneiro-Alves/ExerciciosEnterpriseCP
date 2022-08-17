@@ -13,3 +13,18 @@ D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.pdb
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.genruntimeconfig.cache
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\ref\5SomaMultiplo.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.exe
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.deps.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\refint\5SomaMultiplo.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\5SomaMultiplo\obj\Debug\net6.0\ref\5SomaMultiplo.dll
