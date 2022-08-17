@@ -1,0 +1,17 @@
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\bin\Debug\net6.0-windows\NotaFiscalVS.exe
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\bin\Debug\net6.0-windows\NotaFiscalVS.deps.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\bin\Debug\net6.0-windows\NotaFiscalVS.runtimeconfig.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\bin\Debug\net6.0-windows\NotaFiscalVS.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\bin\Debug\net6.0-windows\NotaFiscalVS.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.csproj.AssemblyReference.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.Form1.resources
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.csproj.GenerateResource.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.AssemblyInfoInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.AssemblyInfo.cs
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.csproj.CoreCompileInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\refint\NotaFiscalVS.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\NotaFiscalVS.genruntimeconfig.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4.5NotaFiscal\NotaFiscalVS\obj\Debug\net6.0-windows\ref\NotaFiscalVS.dll
