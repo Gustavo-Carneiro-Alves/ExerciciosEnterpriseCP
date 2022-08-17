@@ -1,0 +1,15 @@
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\bin\Debug\net6.0\8Tabela.exe
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\bin\Debug\net6.0\8Tabela.deps.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\bin\Debug\net6.0\8Tabela.runtimeconfig.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\bin\Debug\net6.0\8Tabela.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\bin\Debug\net6.0\8Tabela.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.csproj.AssemblyReference.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.AssemblyInfoInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.AssemblyInfo.cs
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.csproj.CoreCompileInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\refint\8Tabela.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\8Tabela.genruntimeconfig.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\8Tabela\obj\Debug\net6.0\ref\8Tabela.dll
