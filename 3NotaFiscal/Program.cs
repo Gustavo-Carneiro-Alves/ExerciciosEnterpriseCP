@@ -25,4 +25,4 @@ if (valorDaNotaFiscal<=999){
 }
 
 
-MessageBox.Show("Some text", "Some title", MessageBoxButtons.OK, MessageBoxIcon.Error);
+Console.WriteLine($"Imposto: {imposto}");

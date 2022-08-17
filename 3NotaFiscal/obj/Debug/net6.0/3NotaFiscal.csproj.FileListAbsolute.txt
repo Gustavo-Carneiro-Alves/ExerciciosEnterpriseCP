@@ -3,3 +3,8 @@ D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\3NotaFiscal\obj\Debug\ne
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.AssemblyInfoInputs.cache
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.AssemblyInfo.cs
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.csproj.CoreCompileInputs.cache
