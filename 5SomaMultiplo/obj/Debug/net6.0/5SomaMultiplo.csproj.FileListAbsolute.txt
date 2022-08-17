@@ -1,0 +1,15 @@
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.exe
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.deps.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.runtimeconfig.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\bin\Debug\net6.0\5SomaMultiplo.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.csproj.AssemblyReference.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.AssemblyInfoInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.AssemblyInfo.cs
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.csproj.CoreCompileInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\refint\5SomaMultiplo.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\5SomaMultiplo.genruntimeconfig.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5SomaMultiplo\obj\Debug\net6.0\ref\5SomaMultiplo.dll

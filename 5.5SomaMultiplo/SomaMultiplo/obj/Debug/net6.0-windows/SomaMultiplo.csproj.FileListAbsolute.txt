@@ -1,0 +1,17 @@
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\bin\Debug\net6.0-windows\SomaMultiplo.exe
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\bin\Debug\net6.0-windows\SomaMultiplo.deps.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\bin\Debug\net6.0-windows\SomaMultiplo.runtimeconfig.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\bin\Debug\net6.0-windows\SomaMultiplo.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\bin\Debug\net6.0-windows\SomaMultiplo.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.csproj.AssemblyReference.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.Form1.resources
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.csproj.GenerateResource.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.AssemblyInfoInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.AssemblyInfo.cs
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.csproj.CoreCompileInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\refint\SomaMultiplo.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\SomaMultiplo.genruntimeconfig.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\5.5SomaMultiplo\SomaMultiplo\obj\Debug\net6.0-windows\ref\SomaMultiplo.dll
