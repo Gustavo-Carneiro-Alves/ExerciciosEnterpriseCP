@@ -1,0 +1,15 @@
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\bin\Debug\net6.0\4Soma.exe
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\bin\Debug\net6.0\4Soma.deps.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\bin\Debug\net6.0\4Soma.runtimeconfig.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\bin\Debug\net6.0\4Soma.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\bin\Debug\net6.0\4Soma.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.csproj.AssemblyReference.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.AssemblyInfoInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.AssemblyInfo.cs
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.csproj.CoreCompileInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\refint\4Soma.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\4Soma.genruntimeconfig.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\4Soma\obj\Debug\net6.0\ref\4Soma.dll
