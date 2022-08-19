@@ -1,0 +1,15 @@
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\bin\Debug\net6.0\9GasEta.exe
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\bin\Debug\net6.0\9GasEta.deps.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\bin\Debug\net6.0\9GasEta.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\bin\Debug\net6.0\9GasEta.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\bin\Debug\net6.0\9GasEta.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\9GasEta.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\9GasEta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\9GasEta.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\9GasEta.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\9GasEta.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\9GasEta.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\refint\9GasEta.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\9GasEta.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\9GasEta.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9GasEta\obj\Debug\net6.0\ref\9GasEta.dll

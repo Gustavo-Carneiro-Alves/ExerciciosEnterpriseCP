@@ -1,0 +1,17 @@
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\bin\Debug\net6.0-windows\9GasEta.exe
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\bin\Debug\net6.0-windows\9GasEta.deps.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\bin\Debug\net6.0-windows\9GasEta.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\bin\Debug\net6.0-windows\9GasEta.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\bin\Debug\net6.0-windows\9GasEta.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\9GasEta.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\_9GasEta.Form1.resources
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\9GasEta.csproj.GenerateResource.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\9GasEta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\9GasEta.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\9GasEta.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\9GasEta.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\9GasEta.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\refint\9GasEta.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\9GasEta.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\9GasEta.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\9.5GasEta\9GasEta\9GasEta\obj\Debug\net6.0-windows\ref\9GasEta.dll
