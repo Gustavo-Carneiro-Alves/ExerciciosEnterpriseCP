@@ -3,9 +3,10 @@
 for (int n = 1; n <= 100; n++)
 {
   if(n % 3 == 0){
-    soma += n;
+    continue;
   }
+  soma += n;
 }
 
-Console.WriteLine($"A soma de todos os múltiplos de 3 é: {soma}");
+Console.WriteLine($"A soma pulando todos os múltiplos de 3 é: {soma}");
 
