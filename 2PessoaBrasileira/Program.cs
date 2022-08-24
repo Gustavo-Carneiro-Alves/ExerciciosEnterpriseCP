@@ -10,7 +10,7 @@ int idade = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Você é brasileiro? S/N");
 string booleano = Console.ReadLine();
-bool brasileira;
+bool brasileira = false;
 
 if (booleano == "S" | booleano== "s"){
     brasileira = true;
@@ -19,9 +19,15 @@ else{
     brasileira = false;
 }
 
-if (idade>16 & brasileira ==true){
+if (idade>=16 & brasileira ==true){
     Console.WriteLine("Você pode votar");
 }
-else{
-    Console.WriteLine("Você NÃO pode votar");
+if (idade<16 & brasileira ==false){
+    Console.WriteLine("Você NÃO pode votar, pois não é brasileira nem tem idade suficiente");
+}
+if (idade<16 & brasileira ==true){
+    Console.WriteLine("Você NÃO pode votar, pois não tem idade suficiente");
+}
+if (idade>=16 & brasileira ==false){
+    Console.WriteLine("Você NÃO pode votar, pois não é brasileira");
 }

@@ -13,3 +13,18 @@ D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\De
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.pdb
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.genruntimeconfig.cache
 D:\Material da Faculdade\WorkSpaceVisualStudioCode\ExCP\2PessoaBrasileira\obj\Debug\net6.0\ref\2PessoaBrasileira.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.exe
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.deps.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\bin\Debug\net6.0\2PessoaBrasileira.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\refint\2PessoaBrasileira.dll
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.pdb
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\2PessoaBrasileira.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\2PessoaBrasileira\obj\Debug\net6.0\ref\2PessoaBrasileira.dll
