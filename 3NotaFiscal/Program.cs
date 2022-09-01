@@ -12,7 +12,7 @@ Imprima o imposto em um MessageBox.
 
 Console.WriteLine("Digite o valor do imposto: ");
 double valorDaNotaFiscal = Convert.ToDouble(Console.ReadLine());
-double imposto;
+double imposto = 0;
 
 if (valorDaNotaFiscal<=999){
     imposto = valorDaNotaFiscal*0.02;

@@ -8,3 +8,18 @@ C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.
 C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.AssemblyInfoInputs.cache
 C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.AssemblyInfo.cs
 C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.csproj.CoreCompileInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.csproj.AssemblyReference.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.AssemblyInfoInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.AssemblyInfo.cs
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.csproj.CoreCompileInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\bin\Debug\net6.0\3NotaFiscal.exe
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\bin\Debug\net6.0\3NotaFiscal.deps.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\bin\Debug\net6.0\3NotaFiscal.runtimeconfig.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\bin\Debug\net6.0\3NotaFiscal.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\bin\Debug\net6.0\3NotaFiscal.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\refint\3NotaFiscal.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\3NotaFiscal.genruntimeconfig.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\3NotaFiscal\obj\Debug\net6.0\ref\3NotaFiscal.dll
