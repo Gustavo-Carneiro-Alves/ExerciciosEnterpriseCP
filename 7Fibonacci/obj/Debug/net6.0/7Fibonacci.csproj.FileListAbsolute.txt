@@ -28,3 +28,18 @@ C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0
 C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.pdb
 C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.genruntimeconfig.cache
 C:\Users\logonrmlocal\Desktop\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\ref\7Fibonacci.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\bin\Debug\net6.0\7Fibonacci.exe
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\bin\Debug\net6.0\7Fibonacci.deps.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\bin\Debug\net6.0\7Fibonacci.runtimeconfig.json
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\bin\Debug\net6.0\7Fibonacci.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\bin\Debug\net6.0\7Fibonacci.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.csproj.AssemblyReference.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.AssemblyInfoInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.AssemblyInfo.cs
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.csproj.CoreCompileInputs.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\refint\7Fibonacci.dll
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.pdb
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\7Fibonacci.genruntimeconfig.cache
+D:\Material da Faculdade\WorkSpaceVisualStudioCode\Gustavo-Carneiro-Alves-RM88392-2TDSF\ExerciciosEnterpriseCP\7Fibonacci\obj\Debug\net6.0\ref\7Fibonacci.dll

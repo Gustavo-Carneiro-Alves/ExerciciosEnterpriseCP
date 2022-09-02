@@ -7,3 +7,4 @@ while (fib <= 100) {
 
 }
 
+Console.Write(a);

@@ -1,31 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\logonrmlocal\\Desktop\\ExerciciosEnterpriseCP\\7Fibonacci\\7Fibonacci.csproj": {}
+    "D:\\Material da Faculdade\\WorkSpaceVisualStudioCode\\Gustavo-Carneiro-Alves-RM88392-2TDSF\\ExerciciosEnterpriseCP\\7Fibonacci\\7Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\logonrmlocal\\Desktop\\ExerciciosEnterpriseCP\\7Fibonacci\\7Fibonacci.csproj": {
+    "D:\\Material da Faculdade\\WorkSpaceVisualStudioCode\\Gustavo-Carneiro-Alves-RM88392-2TDSF\\ExerciciosEnterpriseCP\\7Fibonacci\\7Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\logonrmlocal\\Desktop\\ExerciciosEnterpriseCP\\7Fibonacci\\7Fibonacci.csproj",
+        "projectUniqueName": "D:\\Material da Faculdade\\WorkSpaceVisualStudioCode\\Gustavo-Carneiro-Alves-RM88392-2TDSF\\ExerciciosEnterpriseCP\\7Fibonacci\\7Fibonacci.csproj",
         "projectName": "7Fibonacci",
-        "projectPath": "C:\\Users\\logonrmlocal\\Desktop\\ExerciciosEnterpriseCP\\7Fibonacci\\7Fibonacci.csproj",
-        "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\logonrmlocal\\Desktop\\ExerciciosEnterpriseCP\\7Fibonacci\\obj\\",
+        "projectPath": "D:\\Material da Faculdade\\WorkSpaceVisualStudioCode\\Gustavo-Carneiro-Alves-RM88392-2TDSF\\ExerciciosEnterpriseCP\\7Fibonacci\\7Fibonacci.csproj",
+        "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+        "outputPath": "D:\\Material da Faculdade\\WorkSpaceVisualStudioCode\\Gustavo-Carneiro-Alves-RM88392-2TDSF\\ExerciciosEnterpriseCP\\7Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\logonrmlocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -48,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
